@@ -47,14 +47,14 @@ Conditions:
 - Weapon must match
 - Weapon flags must match (if there's any)
 
-Champ Whisperer: 	  P3_WEAPON_DOG
-Cat Wrangler: 		  P3_WEAPON_CAT
-Entomologist: 		  P3_WEAPON_BEENEST
-Arsonist: 			    P3_WEAPON_MOLOTOV
-Danny Trejo: 		    P3_WEAPON_MACHETE
-Psycho Dundee: 		  P3_WEAPON_MACHETE
-Schwarzenegger: 	  P3_WEAPON_M60
-Wolverines R Ghey: 	P3_WEAPON_WOLVERINE
+Champ Whisperer: 	  P3_WEAPON_DOG  
+Cat Wrangler: 		  P3_WEAPON_CAT  
+Entomologist: 		  P3_WEAPON_BEENEST  
+Arsonist: 			    P3_WEAPON_MOLOTOV  
+Danny Trejo: 		    P3_WEAPON_MACHETE  
+Psycho Dundee: 		  P3_WEAPON_MACHETE  
+Schwarzenegger: 	  P3_WEAPON_M60  
+Wolverines R Ghey: 	P3_WEAPON_WOLVERINE  
 
 
 
